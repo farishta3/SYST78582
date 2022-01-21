@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha Patel
+ * @author Saniya Farishta
  */
 public class StudentList {
 
