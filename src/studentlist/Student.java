@@ -7,7 +7,7 @@ package studentlist;
 
 /**
  *
- * @author Megha Patel,2022
+ * @author saniya farishta
  */
 public class Student {
     private String name;
